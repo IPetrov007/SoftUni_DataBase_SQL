@@ -43,6 +43,30 @@
           <AssociatedConnUserName />
           <FullPath>04 Delete.sql</FullPath>
         </FileNode>
+        <FileNode Name="05 Clients by Name.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>05 Clients by Name.sql</FullPath>
+        </FileNode>
+        <FileNode Name="06 Job status.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>06 Job status.sql</FullPath>
+        </FileNode>
+        <FileNode Name="07 Mechanic Assignments.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>07 Mechanic Assignments.sql</FullPath>
+        </FileNode>
+        <FileNode Name="08 Current Clients.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>08 Current Clients.sql</FullPath>
+        </FileNode>
         <FileNode Name="DataSet.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
