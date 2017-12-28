@@ -85,6 +85,30 @@
           <AssociatedConnUserName />
           <FullPath>11 Available Mechanics.sql</FullPath>
         </FileNode>
+        <FileNode Name="12 Parts Cost.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>12 Parts Cost.sql</FullPath>
+        </FileNode>
+        <FileNode Name="13 Past Expenses.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>13 Past Expenses.sql</FullPath>
+        </FileNode>
+        <FileNode Name="14 Model Repair Time.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>14 Model Repair Time.sql</FullPath>
+        </FileNode>
+        <FileNode Name="15 Faultiest Model.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
+          <AssociatedConnUserName />
+          <FullPath>15 Faultiest Model.sql</FullPath>
+        </FileNode>
         <FileNode Name="DataSet.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
