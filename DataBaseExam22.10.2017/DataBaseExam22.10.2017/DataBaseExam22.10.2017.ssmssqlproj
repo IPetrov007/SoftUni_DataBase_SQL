@@ -1,15 +1,15 @@
 <?xml version="1.0"?>
-<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="Exam24April2017">
+<SqlWorkbenchSqlProject xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="DataBaseExam22.10.2017">
   <Items>
     <LogicalFolder Name="Connections" Type="2" Sorted="true">
       <Items>
         <ConnectionNode Name="DESKTOP-6KH4QJ6\SQLEXPRESS:DESKTOP-6KH4QJ6\ipp00">
-          <Created>2017-12-18T21:09:19.1677619+02:00</Created>
+          <Created>2017-12-30T13:58:00.9429638+02:00</Created>
           <Type>SQL</Type>
           <Server>DESKTOP-6KH4QJ6\SQLEXPRESS</Server>
           <UserName />
           <Authentication>Windows Authentication</Authentication>
-          <InitialDB />
+          <InitialDB>ReportService</InitialDB>
           <LoginTimeout>30</LoginTimeout>
           <ExecutionTimeout>0</ExecutionTimeout>
           <ConnectionProtocol>NotSpecified</ConnectionProtocol>
@@ -43,83 +43,71 @@
           <AssociatedConnUserName />
           <FullPath>04 Delete.sql</FullPath>
         </FileNode>
-        <FileNode Name="05 Clients by Name.sql">
+        <FileNode Name="05 Users by Age.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>05 Clients by Name.sql</FullPath>
+          <FullPath>05 Users by Age.sql</FullPath>
         </FileNode>
-        <FileNode Name="06 Job status.sql">
+        <FileNode Name="06 Unassigned Reports.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>06 Job status.sql</FullPath>
+          <FullPath>06 Unassigned Reports.sql</FullPath>
         </FileNode>
-        <FileNode Name="07 Mechanic Assignments.sql">
+        <FileNode Name="07 Employees And Reports.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>07 Mechanic Assignments.sql</FullPath>
+          <FullPath>07 Employees And Reports.sql</FullPath>
         </FileNode>
-        <FileNode Name="08 Current Clients.sql">
+        <FileNode Name="08 Most Reported Category.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>08 Current Clients.sql</FullPath>
+          <FullPath>08 Most Reported Category.sql</FullPath>
         </FileNode>
-        <FileNode Name="09 Mechanic Performance.sql">
+        <FileNode Name="09 Employees in Category.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>09 Mechanic Performance.sql</FullPath>
+          <FullPath>09 Employees in Category.sql</FullPath>
         </FileNode>
-        <FileNode Name="10 Hard Earners.sql">
+        <FileNode Name="10 Users per Employee.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>10 Hard Earners.sql</FullPath>
+          <FullPath>10 Users per Employee.sql</FullPath>
         </FileNode>
-        <FileNode Name="11 Available Mechanics.sql">
+        <FileNode Name="11 Emergency Patrol.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>11 Available Mechanics.sql</FullPath>
+          <FullPath>11 Emergency Patrol.sql</FullPath>
         </FileNode>
-        <FileNode Name="12 Parts Cost.sql">
+        <FileNode Name="12 Birthday Report.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>12 Parts Cost.sql</FullPath>
+          <FullPath>12 Birthday Report.sql</FullPath>
         </FileNode>
-        <FileNode Name="13 Past Expenses.sql">
+        <FileNode Name="13 Numbers Coincidence.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>13 Past Expenses.sql</FullPath>
+          <FullPath>13 Numbers Coincidence.sql</FullPath>
         </FileNode>
-        <FileNode Name="14 Model Repair Time.sql">
+        <FileNode Name="14 OpenClosed Statistics.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>14 Model Repair Time.sql</FullPath>
+          <FullPath>14 OpenClosed Statistics.sql</FullPath>
         </FileNode>
-        <FileNode Name="15 Faultiest Model.sql">
+        <FileNode Name="15 Average Closing Time.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
           <AssociatedConnUserName />
-          <FullPath>15 Faultiest Model.sql</FullPath>
-        </FileNode>
-        <FileNode Name="16 Missing Parts.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>16 Missing Parts.sql</FullPath>
-        </FileNode>
-        <FileNode Name="17 Cost of Order.sql">
-          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
-          <AssociatedConnSrvName>DESKTOP-6KH4QJ6\SQLEXPRESS</AssociatedConnSrvName>
-          <AssociatedConnUserName />
-          <FullPath>17 Cost of Order.sql</FullPath>
+          <FullPath>15 Average Closing Time.sql</FullPath>
         </FileNode>
         <FileNode Name="DataSet.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:DESKTOP-6KH4QJ6\SQLEXPRESS:True</AssociatedConnectionMoniker>
